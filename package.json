@@ -3,7 +3,8 @@
   "title": "SimpleBar.js",
   "description": "Scrollbars, simpler.",
   "files": [
-    "dist"
+    "dist",
+    "src"
   ],
   "author": "Adrien Grsmto from a fork by Jonathan Nicol",
   "repository": {
